@@ -1,0 +1,11 @@
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\bin\Debug\15mintest.exe.config
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\bin\Debug\15mintest.exe
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\bin\Debug\15mintest.pdb
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.csproj.AssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\_15mintest.Form1.resources
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\_15mintest.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.exe
+C:\Users\ruzickat.04\source\repos\15mintest\15mintest\obj\Debug\15mintest.pdb
